@@ -1,0 +1,66 @@
+body{
+    background-color:gold;
+    
+}
+
+.logo{
+    width:80%;
+    height:50px;
+    
+    background-color:pink;
+    margin-bottom:3px;
+    border-top-right-radius:2pc;
+    border-top-left-radius: 2pc;
+    
+}
+.nav{
+    width:80%;
+    height:60px;
+   
+    background-color:green;
+    margin-bottom:3px;    
+}
+.cont{
+    width:40%;
+    height:250px;
+    background-color:yellow;
+    float:left;
+    margin-left:auto;
+    margin-right:auto;
+        
+}
+.news{
+    width:40%;
+    height:125px;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:aqua;
+    float:left;
+    margin-bottom:3px;
+    
+}
+.updates{
+    width:40%;
+    height:125px;
+    background-color:red;
+    float:left;
+    margin-bottom:3px;
+}
+.trend{
+    width:80%;
+    height:250px;
+    background-color:pink;
+    float:left;
+    margin-bottom:3px;
+}
+.footer{
+    width:80%;
+    height:25px;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:black;
+    float:left;
+    margin-bottom:3px;
+    border-bottom-right-radius:2pc;
+    border-bottom-left-radius:2pc;
+}
